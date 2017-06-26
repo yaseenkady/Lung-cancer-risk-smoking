@@ -1,4 +1,4 @@
-# Simple Genome App Guide
+# Risk of Lung Cancer from cigarette consumption
 
 ## Basic Steps
 
