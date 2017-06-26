@@ -1,0 +1,11 @@
+# RESULT.default=You have average potential to be a ninja.							
+# References.description=References you may be interested in based on your ninja potential result.							
+# Action.default=Try a muay thai class and see how it goes. If you do well, you may have a ninja future...							
+# Action.description=A suggested action to take based on your ninja potential result.							
+FEATURE	FEATURE TYPE	REGION	STATE	RESULT	REFERENCE	Action	Resources
+FAM138A	gene	1:34554-36081		You have good jumping and shuriken throwing potential.	http://www.sciencedirect.com/science/article/pii/S0070215308607565	Try going to the gym more often.	
+rs134932	variant	22:27029402-27029402	T	You have good jumping and shuriken throwing potential.	http://www.sciencedirect.com/science/article/pii/S0070215308607565	Try going to the gym more often.	
+SHH	gene	7:155799986-155812273	frameshift_variant	You completely lack ninja spirit.	Illness, disease and sin: the connection between genetics and spirituality, Matthias Beck, 2007.	Visit the mountains of Tibet to train your mind and spirit.	http://www.tibettravel.org/tibet-travel-advice/top-10-must-visit-monasteries-for-your-tibet-tour-to-seek-the-habitat-of-spirit.html
+rs238455	variant	4:102182755-102182755	T|T	You have the cat-like reflexes of a ninja.	http://circres.ahajournals.org/content/33/1/22.short	Enter a dodgeball tournament to hone your reflexes.	
+rs134932;FAM138A	variant;gene	22:27029402-27029402;1:34554-36081	G	You have incredible jumping and shuriken throwing potential!	http://www.sciencedirect.com/science/article/pii/S0070215308607565	Consider applying for ninja school to get a professional ninja license.	https://www.extremely-sharp.com/blogs/eslife/17530916-shurikens-how-to-throw-a-star-like-a-ninja
+JMJD8;VIPR1;EXOSC1;RBM28	gene;gene;gene;gene	16:681671-684528;3:42489299-42537573;10:97436142-97446017;7:128297685-128343908	stop_gained;;transcript_ablation;	You have 20/100 vision! Thats awful!	Molecular genetics of human color vision: the genes encoding blue, green, and red pigments.1986	Invest in some contacts before considering being a ninja.	
