@@ -1,6 +1,7 @@
 # Risk of Lung Cancer following Cigarette Consumption
 <div>
-    <img http://images.medicinenet.com/images/appictures/lung-cancer-s2-what-is-lung-cancer.jpg" align="center" width=400 height=150>
+    ![alt text](http://images.medicinenet.com/images/appictures/lung-cancer-s2-what-is-lung-cancer.jpg "Logo Title Text 1")
+
 </div>
 
 ## Background
