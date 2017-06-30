@@ -16,9 +16,9 @@ This analysis looks at your genetic information presented at the rs333 single-nu
 Your results and genetic information from this analysis are not intended to be a substitute for professional medical advice, diagnoses, and treatment. The medical information on this site is provided as an information resource only, and is not to be used or relied on for any diagnostic or treatment purposes.
 
 
-## Sources
-1. https://www.cdc.gov/cancer/lung/statistics/
-2. https://www.cdc.gov/cancer/lung/basic_info/risk_factors.html
+####### Sources
+####### 1. https://www.cdc.gov/cancer/lung/statistics/
+####### 2. https://www.cdc.gov/cancer/lung/basic_info/risk_factors.html
 
 
 
