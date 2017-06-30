@@ -4,7 +4,11 @@
 
 ## Background
 
-Smoking has contributed to over __75%__ of deaths attributed to lung cancer. Men and women who smoke are __23__ and __13__ times __more likely__ to develop lung cancer, respectively (when compared to nonsmokers). Genetic differences in nicotine receptor have been shown to have strong links to lung cancer predisposition and are covered in this genetic analysis.
+Cigarette smoking is the number one risk factor for lung cancer and has contributed to over __75%__ of lung-cancer related deaths. Men and women who smoke are __23__ and __13__ times __more likely__ to develop lung cancer, respectively (when compared to nonsmokers). Genetic differences in nicotine receptor have been shown to have strong links to lung cancer predisposition and are covered in this genetic analysis.
+
+
+## Sources
+
 
 
 
