@@ -1,10 +1,14 @@
-# Risk of Lung Cancer following Cigarette Consumption
+# Risk of Lung Cancer
 
 ![alt text](http://images.medicinenet.com/images/appictures/lung-cancer-s2-what-is-lung-cancer.jpg)
 
 ## Background
 
-Cigarette smoking is the number one risk factor for lung cancer and has contributed to over __75%__ of lung-cancer related deaths. People who smoke are __15__ to __30__ times __more likely__ to develop lung cancer, respectively (when compared to nonsmokers)<sup>1</sup>. Genetic differences in nicotine receptivity have been shown to have strong links to lung cancer from smoking and are covered in this genetic analysis.
+Lung cancer is one of the most prevalent types of cancer and more people in the United States die from lung cancer than any other disease. Cigarette smoking is the number one risk factor for lung cancer and has contributed to over __75%__ of lung-cancer related deaths<sup>2</sup>. Genetic differences in nicotine receptivity have been shown to have strong links to lung cancer and are covered in this genetic analysis.
+
+## What this App covers
+
+This analysis looks at your genetic information presented at the rs333 single-nucleotide polymorphism — located on chromosome 15.
 
 
 
@@ -19,7 +23,8 @@ Your results and genetic information from this analysis are not intended to be a
 
 
 ## Sources
-1. https://www.cdc.gov/cancer/lung/basic_info/risk_factors.html
+1.
+2. https://www.cdc.gov/cancer/lung/basic_info/risk_factors.html
 
 
 
