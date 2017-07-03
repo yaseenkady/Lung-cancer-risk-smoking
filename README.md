@@ -13,7 +13,7 @@ This analysis looks at your genetic information presented at the rs333 single-nu
 
 ## Medical Disclaimer
 
-Your results and genetic information from this analysis are not intended to be a substitute for professional medical advice, diagnoses, and treatment. The medical information on this site is provided as an information resource only, and is not to be used or relied on for any diagnostic or treatment purposes.
+Your results and genetic information from this analysis are not intended to be a substitute for professional medical advice, diagnoses, and treatment. The information on this site is provided as an information resource only, and is not to be used or relied on for any diagnostic or treatment purposes. This information is not intended to diagnose, treat, cure, or prevent any disease and all medical-related inquiries should be reviewed with a professional licensed healthcare provider.
 
 
 ###### Sources
