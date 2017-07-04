@@ -4,7 +4,7 @@
 
 ## Background
 
-Lung cancer is one of the most prevalent types of cancer and more people in the United States die from lung cancer annually than any other cancer<sup>1</sup>. Cigarette smoking is the number one risk factor for lung cancer and has contributed to over __75%__ of lung-cancer related deaths<sup>2</sup>. Genetic differences in nicotine receptivity have been shown to have strong links to lung cancer and are covered in this genetic analysis.
+Lung cancer is one of the most prevalent types of cancer and more people in the United States die from lung cancer annually than any other cancer.<sup>1</sup> Cigarette smoking is the number one risk factor for lung cancer and has contributed to over __75%__ of lung-cancer related deaths.<sup>2</sup> Genetic differences in nicotine receptivity have been shown to have strong links to lung cancer and are covered in this genetic analysis.
 
 ## What this App covers
 
