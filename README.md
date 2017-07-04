@@ -8,7 +8,7 @@ Lung cancer is one of the most prevalent types of cancer and more people in the 
 
 ## What this App covers
 
-This analysis looks at your genetic information presented at the rs333 single-nucleotide polymorphism — located on chromosome 15.
+This analysis looks at your genetic information presented at the rs1051730 single-nucleotide polymorphism — located on chromosome 15.<sup>3</sup> 
 
 
 ## Medical Disclaimer
@@ -19,6 +19,7 @@ Your results and genetic information from this analysis are not intended to be a
 ###### Sources
 ###### 1. https://www.cdc.gov/cancer/lung/statistics/
 ###### 2. https://www.cdc.gov/cancer/lung/basic_info/risk_factors.html
+###### 3. https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs=1051730
 
 
 
